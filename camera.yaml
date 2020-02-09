@@ -1,0 +1,14 @@
+camera:
+  ISO: 900
+  awb_mode: tungsten
+  brightness: 55
+  contrast: -10
+  exposureCompensation: 0
+  exposure_mode: antishake
+  hFlip: false
+  saturation: 80
+  sharpness: 65
+  shutterSpeed: 25000
+  vFlip: false
+  videoStabilisation: false
+zoom: 1.0
