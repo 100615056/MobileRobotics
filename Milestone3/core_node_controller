@@ -212,7 +212,7 @@ class CoreNodeController():
             self.pub_mode_return.publish(msg_mode_return)
 
         self.is_triggered = True
-
+  ################################################################################ Editing Ends Here
     # Which step is in Level Crossing  
     def cbLevelCrossingStamped(self, level_crossing_msg):
         rospy.loginfo("LevelCrossing Step changed from %d", self.current_step_level_crossing)
