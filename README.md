@@ -7,7 +7,7 @@ Creating an autonomous system using the turtleBot3 Waffle Pi and ROS.
 
 ## Milestone 2 (https://angelicacusipag.wixsite.com/mechatronics/videos?wix-vod-video-id=af309fad0b8d4139952d46d24607416f&wix-vod-comp-id=comp-keugdvfv1)
 
-- The turtleBot3 Waffle Pi autonomously drives along the track and be able to detect stop signs along the way and perform the appropriate response; stop and go after a time delay.
+- The turtleBot3 Waffle Pi autonomously drives along the track and is able to detect stop signs along the way and perform the appropriate response; stop and continue driving after a time delay.
 
 ## Milestone 3 (No video demonstration due to cancellation of in-person class)
 
